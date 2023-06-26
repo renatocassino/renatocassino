@@ -40,6 +40,15 @@ Stacks
 <a href="https://deno.land/" title="Deno"><img src="https://github.com/get-icon/geticon/raw/master/icons/deno.svg" alt="Deno" width="21px" height="21px"></a>
 <a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="21px" height="21px"></a>
 
+Stats
+----------
+[![Renato Cassino's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatocassino&show_icons=true&theme=merko)](https://github.com/renatocassino)
+
+[![Dephpugger](https://github-readme-stats.vercel.app/api/pin/?username=renatocassino&repo=dephpugger)](https://github.com/renatocassino)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatocassino&langs_count=8)](https://github.com/renatocassino)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
