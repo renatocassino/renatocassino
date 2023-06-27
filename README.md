@@ -46,7 +46,7 @@ Stats
 
 [![Dephpugger](https://github-readme-stats.vercel.app/api/pin/?username=renatocassino&repo=dephpugger)](https://github.com/renatocassino)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatocassino&langs_count=8)](https://github.com/renatocassino)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatocassino&langs_count=8&exclude_repo=myemacs)](https://github.com/renatocassino)
 
 
 Here are some ideas to get you started:
