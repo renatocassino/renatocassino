@@ -19,6 +19,7 @@ I'm a Staff Software Engineer with extensive experience building scalable, high-
 ---
 
 ## 💼 **Experience**
+- **Flutter Brazil:** Senior Software Engineer (Fullstack)
 - **Will Bank:** Staff Software Engineer (Fullstack)
 - **Loft:** Senior Staff Software Engineer (Fullstack)
 - **OLX Brasil:** Staff Software Engineer (Fullstack)
